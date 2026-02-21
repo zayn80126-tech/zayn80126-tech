@@ -38,15 +38,6 @@ I build robust backend systems, APIs, and database-driven applications. I enjoy 
 
 ---
 
-## 📌 What I Focus On
-
-* 🔹 REST API Development
-* 🔹 Backend System Design
-* 🔹 Database Design & Optimization
-* 🔹 Problem Solving & DSA
-* 🔹 Scalable Server-Side Applications
-
----
 
 ## 📈 GitHub Stats
 
@@ -62,11 +53,6 @@ I build robust backend systems, APIs, and database-driven applications. I enjoy 
 * 🌱 Advanced Spring Boot
 * 🌱 Backend Architecture Patterns
 * 🌱 System Design Fundamentals
-
----
-
-## 🤝 Connect With Me
-
 
 ---
 
