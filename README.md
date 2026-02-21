@@ -51,7 +51,7 @@ I build robust backend systems, APIs, and database-driven applications. I enjoy 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zayn80126-tech&show_icons=true&theme=tokyonight" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zayn80126-tech&theme=tokyonight" />
 </p>
 
