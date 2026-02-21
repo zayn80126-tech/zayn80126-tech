@@ -67,8 +67,6 @@ I build robust backend systems, APIs, and database-driven applications. I enjoy 
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: *(add your link)*
-* 📫 Email: *(add your email)*
 
 ---
 
